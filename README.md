@@ -10,6 +10,7 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 - Average Sales - The average revenue per sale
 - Number of Items - The total count of different items sold
 - Average Rating - The average customer rating for items sold
+- Chart's Requirement - KPI Metrics by Fat Content, KPI Metrics by Item Type, Fat Content by Outlet for KPI Metrics, KPI Metrics by Outlet Establishment, Sales by Outlet Size, Sales by Outlet Location, All Metrics by Outlet Type
 
 ## Steps used in the Project
 Requirement Gathering / Business Requirement
