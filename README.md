@@ -13,15 +13,16 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 - Chart's Requirement - KPI Metrics by Fat Content, KPI Metrics by Item Type, Fat Content by Outlet for KPI Metrics, KPI Metrics by Outlet Establishment, Sales by Outlet Size, Sales by Outlet Location, All Metrics by Outlet Type
 
 ## Steps used in the Project
-Requirement Gathering / Business Requirement
-Data Walkthrough
-Data Connection
-Data Cleaning / Quality Check
-Data Modeling
-Data Processing
-DAX Calculations
-Dashboard Lay Outing
-Charts Development and Formatting
-Dashboard / Report Development
-Insights Generation
+- Requirement Gathering / Business Requirement
+- Data Walkthrough
+- Data Connection
+- Data Cleaning / Quality Check
+- Data Modeling
+- Data Processing
+- DAX Calculations
+- Dashboard Lay Outing
+- Charts Development and Formatting
+- Dashboard / Report Development
+- Insights Generation
 
+- Dashboard Interaction <a href="https://github.com/Debanshu111/Blinkit_PowerBi_Dashboard/blob/main/Blinkit_PowerBi.png">View Dashboard</a>
