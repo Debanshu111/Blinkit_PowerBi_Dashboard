@@ -11,6 +11,7 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 - Number of Items - The total count of different items sold
 - Average Rating - The average customer rating for items sold
 - Chart's Requirement - KPI Metrics by Fat Content, KPI Metrics by Item Type, Fat Content by Outlet for KPI Metrics, KPI Metrics by Outlet Establishment, Sales by Outlet Size, Sales by Outlet Location, All Metrics by Outlet Type
+- Dashboard Interaction <a href="https://github.com/Debanshu111/Blinkit_PowerBi_Dashboard/blob/main/Blinkit_PowerBi.png">View Dashboard</a>
 
 ## Steps used in the Project
 - Requirement Gathering / Business Requirement
@@ -25,4 +26,7 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 - Dashboard / Report Development
 - Insights Generation
 
-- Dashboard Interaction <a href="https://github.com/Debanshu111/Blinkit_PowerBi_Dashboard/blob/main/Blinkit_PowerBi.png">View Dashboard</a>
+## Dashboard
+
+![Blinkit_PowerBi](https://github.com/user-attachments/assets/5d18ba61-6cda-4e15-b70d-dfe3d2595a80)
+
