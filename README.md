@@ -30,3 +30,19 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 
 ![Blinkit_PowerBi](https://github.com/user-attachments/assets/5d18ba61-6cda-4e15-b70d-dfe3d2595a80)
 
+## Project Insights
+
+- Fruits, Snacks, and Household items dominate sales, whereas seafood and breakfast items have minimal sales. Strategic promotions on low-performing categories might boost revenue.
+- Regular products contribute significantly more to revenue, but demand for low-fat products is notable. A growing health-conscious customer base might indicate future opportunities for low-fat product expansion.
+- Tier 3 locations generate the highest sales, indicating strong rural and semi-urban demand.
+Tier 1 cities have the lowest sales contribution, possibly due to higher competition.
+Expansion strategies can be focused on Tier 2 and Tier 3 cities for growth.
+- Medium-sized outlets perform best, suggesting they have an optimal product mix and customer reach. Expansion should focus on optimizing high-performing medium outlets.
+- Supermarket Type 1 is the highest revenue generator ($787.55K) with the most items (5,577).
+Grocery stores have the highest item visibility (0.10), meaning they showcase products better.
+Investment in Supermarket Type 1 expansion can yield higher returns.
+
+## Conclusion
+
+ Sales peaked in 2018 but dropped afterward, suggesting either market saturation or operational issues. A fresh marketing approach or product innovation might be needed to regain peak performance.
+
