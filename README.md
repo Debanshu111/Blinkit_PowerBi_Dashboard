@@ -41,8 +41,24 @@ Expansion strategies can be focused on Tier 2 and Tier 3 cities for growth.
 - Supermarket Type 1 is the highest revenue generator ($787.55K) with the most items (5,577).
 Grocery stores have the highest item visibility (0.10), meaning they showcase products better.
 Investment in Supermarket Type 1 expansion can yield higher returns.
+- Sales peaked in 2018 but dropped afterward, suggesting either market saturation or operational issues. A fresh marketing approach or product innovation might be needed to regain peak performance.
 
 ## Conclusion
 
- Sales peaked in 2018 but dropped afterward, suggesting either market saturation or operational issues. A fresh marketing approach or product innovation might be needed to regain peak performance.
+- Boost Sales in Underperforming Categories
+Seafood and breakfast items have low sales; targeted promotions or bundling strategies may help.
+
+- Expand in Tier 2 and Tier 3 Cities
+These regions show higher sales potential; further investment could drive growth.
+
+- Leverage Supermarket Type 1’s Success
+This outlet type is the top revenue earner, making it the best candidate for further investment.
+
+- Enhance Customer Ratings
+An average rating of 3.9 suggests room for improvement in service quality and product variety.
+
+- Re-evaluate Strategy Post-2018 Decline
+Sales saw a sharp decline after 2018; identifying and addressing causes (e.g., competition, pricing, supply chain) is crucial.
+
+ 
 
