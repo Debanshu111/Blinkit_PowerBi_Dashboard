@@ -6,10 +6,10 @@ Blinkit wants to conduct a comprehensive analysis of its performance, customer s
 - <a href="https://github.com/Debanshu111/Blinkit_PowerBi_Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">BlinkIT Grocery Data</a>
 
 ## Questions (KPIs)
-Total Sales - The overall revenue generated from all items sold
-Average Sales - The average revenue per sale
-Number of Items - The total count of different items sold
-Average Rating - The average customer rating for items sold
+- Total Sales - The overall revenue generated from all items sold
+- Average Sales - The average revenue per sale
+- Number of Items - The total count of different items sold
+- Average Rating - The average customer rating for items sold
 
 ## Steps used in the Project
 Requirement Gathering / Business Requirement
